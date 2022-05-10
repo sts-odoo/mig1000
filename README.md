@@ -10,14 +10,6 @@ aa
 a
 aa
 aé
-ahaaa
-adez
-a
-fa
-a
-a
-a
-a
 a
 a
 a
