@@ -1,12 +1,3 @@
 y
-a
-a
-a
-a
-a
-a
-s
-a
-aaag
 zaa
 aa
