@@ -6,4 +6,4 @@ from odoo.tests import common, tagged
 class TestStuff(common.TransactionCase):
 
     def test_do_test_things(self):
-        self.assertTrue(True, 'il est nul ton test')
+        self.assertTrue(False, 'il est nul ton test')
