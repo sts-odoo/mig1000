@@ -1,6 +1,6 @@
 {
     'name': 'Birthday Wishes',
-    'version': '14.0.9.0.8',
+    'version': '14.0.9.0.9',
     'category': 'Contacts',
     'summary': 'Birthday Wishes for Employee, Customer',
     'description': """
